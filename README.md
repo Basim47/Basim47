@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi!, I'm Basim Shabbir</h1>
 <h3 align="center">React-Native Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basim47&label=Profile%20views&color=0e75b6&style=flat" alt="basim47" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Basim47&label=Profile%20views&color=0e75b6&style=flat" alt="Basim47" /> </p>
 
 - 🔭 I’m currently working on **Horizon.**
 
