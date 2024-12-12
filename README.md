@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hi!, I'm Basim Shabbir</h1>
 <h3 align="center">React-Native Developer</h3>
 
-- 🔭 I’m currently working on **Horizon.**
-
-- 🌱 I’m currently learning **React-Native and Flutter.**
+- 🌱 I’m currently learning **Flutter.**
 
 - 👯 I’m looking to collaborate on **React-Native projects.**
 
